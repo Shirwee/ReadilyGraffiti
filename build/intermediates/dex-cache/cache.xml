@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\softwares\androidsdk\SDK\.android\build-cache\7987d43621778b087d346a439c8dd08545dd625e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="F:\project\androidproject\shirwee\customview\TestHeart\ReadilyGraffiti\app\build\intermediates\pre-dexed\debug\classes_e1dc4bdae5e144bb42c7cfb373dcb1dfdc7c950b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\softwares\androidsdk\SDK\.android\build-cache\53d0a9134fa114611a6c8e43f3d566bd9a101dff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="F:\project\androidproject\shirwee\customview\TestHeart\ReadilyGraffiti\app\build\intermediates\pre-dexed\debug\classes_3a5265270fea8c782b48a4d7687cea64fa35782c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\softwares\androidsdk\SDK\.android\build-cache\aec08b6c6d9dbb72f97a594b6a9d09770344a4a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\project\androidproject\shirwee\customview\TestHeart\ReadilyGraffiti\app\build\intermediates\pre-dexed\debug\classes_7c278cb51e1c4a93d0c2dd15fb4282f52b81a1fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\softwares\androidsdk\SDK\.android\build-cache\7a20fae7c6d1760910eb39d634581e846fe2b15d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="F:\project\androidproject\shirwee\customview\TestHeart\ReadilyGraffiti\app\build\intermediates\pre-dexed\debug\classes_ca269ec5cbeeea0648a92ef8d6e91fe71d58eaee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\softwares\androidsdk\SDK\.android\build-cache\95334dcc973ef5903adb6696da4ad92a484de05d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="F:\project\androidproject\shirwee\customview\TestHeart\ReadilyGraffiti\app\build\intermediates\pre-dexed\debug\classes_ba8d468ab983b15d8d644c41086be9d40ba883a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\softwares\androidsdk\SDK\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="F:\project\androidproject\shirwee\customview\TestHeart\ReadilyGraffiti\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_3d3c0ac2e0ba6a811ab5248889bb1d7fba33eacb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\softwares\androidsdk\SDK\.android\build-cache\564ce7e839c71fa7c452dd7dd92304e3f0a69734\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="F:\project\androidproject\shirwee\customview\TestHeart\ReadilyGraffiti\app\build\intermediates\pre-dexed\debug\classes_141c7a195644ab376673508a9abfb8278ae997b1.jar" />
+    </item>
+
+</items>

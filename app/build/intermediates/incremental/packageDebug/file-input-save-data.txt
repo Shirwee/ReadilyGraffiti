@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Wed Oct 25 15:20:34 CST 2017
+2.base=F\:\\project\\androidproject\\shirwee\\customview\\TestHeart\\ReadilyGraffiti\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=F\:\\project\\androidproject\\shirwee\\customview\\TestHeart\\ReadilyGraffiti\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=F\:\\project\\androidproject\\shirwee\\customview\\TestHeart\\ReadilyGraffiti\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=F\:\\project\\androidproject\\shirwee\\customview\\TestHeart\\ReadilyGraffiti\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+2.set=ANDROID_RESOURCE
+4.base=F\:\\project\\androidproject\\shirwee\\customview\\TestHeart\\ReadilyGraffiti\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=F\:\\project\\androidproject\\shirwee\\customview\\TestHeart\\ReadilyGraffiti\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\divider.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=F\:\\project\\androidproject\\shirwee\\customview\\TestHeart\\ReadilyGraffiti\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+5.base=F\:\\project\\androidproject\\shirwee\\customview\\TestHeart\\ReadilyGraffiti\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=F\:\\project\\androidproject\\shirwee\\customview\\TestHeart\\ReadilyGraffiti\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=F\:\\project\\androidproject\\shirwee\\customview\\TestHeart\\ReadilyGraffiti\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+1.set=DEX
+7.base=F\:\\project\\androidproject\\shirwee\\customview\\TestHeart\\ReadilyGraffiti\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=F\:\\project\\androidproject\\shirwee\\customview\\TestHeart\\ReadilyGraffiti\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=F\:\\project\\androidproject\\shirwee\\customview\\TestHeart\\ReadilyGraffiti\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=F\:\\project\\androidproject\\shirwee\\customview\\TestHeart\\ReadilyGraffiti\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\xml\\file_paths.xml
+3.set=ANDROID_RESOURCE
+1.base=F\:\\project\\androidproject\\shirwee\\customview\\TestHeart\\ReadilyGraffiti\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+4.file=F\:\\project\\androidproject\\shirwee\\customview\\TestHeart\\ReadilyGraffiti\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.set=ANDROID_RESOURCE
